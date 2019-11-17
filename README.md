@@ -1,6 +1,6 @@
 # 15x4 Karachi Homepage
 
-Served on ???
+Served on https://15x4karachi.netlify.com
 
 ## How to update website or make changes?
 
