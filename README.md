@@ -1,6 +1,6 @@
-# 15x4 Munich Homepage
+# 15x4 Karachi Homepage
 
-Served on https://munich.15x4.org/
+Served on ???
 
 ## How to update website or make changes?
 

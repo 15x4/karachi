@@ -32,7 +32,7 @@ export default {
     // create the cube
     const geometry = new THREE.BoxGeometry(1, 1, 1)
     const loader = new THREE.TextureLoader()
-    const logo = loader.load('/15x4_logo_munich.png')
+    const logo = loader.load('/15x4_logo_karachi.png')
     const material = new THREE.MeshBasicMaterial({ map: logo })
 
     const cube = new THREE.Mesh(geometry, material)

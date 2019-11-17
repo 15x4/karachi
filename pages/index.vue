@@ -12,7 +12,7 @@
     </div>
     <header class="slide flex flex-col">
       <h1 class="flex align-center justify-center">
-        <span class="hidden">15x4 Munich</span>
+        <span class="hidden">15x4 Karachi</span>
         <component
           :is="enable3d && !enableVideo ? 'Logo3D' : 'Logo'"
           class="h-64 w-64 z-10"
@@ -37,15 +37,8 @@
           </a>
         </li>
         <li>
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSd-Z-wGW1yWX1Bm_ZPyCeeYluhyOuONiguwPS05_IuZiYJITg/viewform"
-            target="_blank"
+          <a href="https://forms.gle/BFY4gdcFz3otsyJX6" target="_blank"
             >Contact Us</a
-          >
-        </li>
-        <li>
-          <a href="https://shop.spreadshirt.de/15x4-munich" target="_blank"
-            >Fan Shop</a
           >
         </li>
       </ul>
@@ -91,7 +84,7 @@
           </p>
           <a
             class="btn"
-            href="https://www.eventbrite.com/o/15x4-munich-18733203881"
+            href="https://www.facebook.com/pg/15x4karachi/events/"
             target="_blank"
           >
             See events
@@ -115,7 +108,7 @@
           </p>
           <a
             class="btn"
-            href="https://goo.gl/forms/G8Cfk3DYO7OsPIWf2"
+            href="https://forms.gle/2tKG9kjpVyDznW5R6"
             target="_blank"
           >
             Become a speaker
@@ -141,10 +134,7 @@
             Join our international team of driven volunteers who believe in the
             power of knowledge sharing.
           </p>
-          <a
-            class="btn"
-            href="https://docs.google.com/forms/d/e/1FAIpQLScEcvp6Dtfgm_ZexvODfGD3d2zX15yUXhBL_MkX4IT_w6anGA/viewform"
-          >
+          <a class="btn" href="https://forms.gle/Jj4rDCY5sm74xnwa9">
             Become a volunteer
           </a>
         </article>
@@ -167,41 +157,22 @@
             If your reply is yes, we are very eager to hear from you for a
             partnership.
           </p>
-          <a
-            class="btn"
-            href="https://docs.google.com/forms/d/e/1FAIpQLScdVynxfnrx_ebskWez3mT3Y7EBLmZGRtOhxm1DaWrkrAu-ow/viewform"
-          >
+          <a class="btn" href="https://forms.gle/YULhoHGYthtS4jsf9">
             Become a partner
           </a>
         </article>
       </section>
-    </section>
-    <section class="feature reverse">
-      <article>
-        <h3>Stay updated and subscribe to our newsletter!</h3>
-        <p>
-          <a class="btn" href="http://eepurl.com/cRRmZ9" target="_blank"
-            >Subscribe</a
-          >
-        </p>
-      </article>
     </section>
 
     <section class="feature social">
       <article>
         <h3>Follow us on</h3>
         <p>
-          <a href="https://www.facebook.com/15x4munich/" target="_blank">
+          <a href="https://www.facebook.com/15x4karachi/" target="_blank">
             <i class="fab fa-facebook-square"></i><span>Facebook</span></a
           >
-          <a href="https://www.instagram.com/15x4munich/" target="_blank">
+          <a href="https://www.instagram.com/15x4karachi/" target="_blank">
             <i class="fab fa-instagram"></i><span>Instagram</span></a
-          >
-          <a href="https://www.meetup.com/de-DE/15x4munich/" target="_blank">
-            <i class="fab fa-meetup"></i><span>Meetup</span></a
-          >
-          <a href="https://twitter.com/15x4M" target="_blank">
-            <i class="fab fa-twitter-square"></i><span>Twitter</span></a
           >
           <a
             href="https://www.youtube.com/channel/UCdYIq_Qa_XsQ7bqbokjVsvw"
@@ -216,7 +187,7 @@
       <article>
         <p>
           Source code of this website is available at
-          <a href="https://github.com/15x4/munich" target="_blank">GitHub</a>.
+          <a href="https://github.com/15x4/karachi" target="_blank">GitHub</a>.
         </p>
       </article>
     </section>
